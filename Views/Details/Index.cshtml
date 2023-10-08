@@ -1,0 +1,97 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @*  <script src="~/assets/libs/jquery/src/jquery.js"></script>
+    <script src="~/jquery/jquery.min.js"></script>*@
+
+
+
+    <center>
+        <input type="button" value="Click" id="Btn" />
+        <div id="Lab"></div>
+    </center>
+
+    <labal>  Country </labal>
+    <select id="_country" asp-items="@(SelectList)ViewBag.CountryList">
+        <option>
+            Choose Country
+        </option>
+    </select>
+    <br />
+    <br />
+
+
+
+    <labal> Branch </labal>
+    <select id="BranchId" >
+        <option>
+            Choose Branch
+        </option>
+    </select>
+    <br />
+    <br />
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+
+   
+    <script>
+        $(function () {
+            $("#_country").change(function () {
+
+                $("#BranchId").empty();
+                $("#BranchId").append("<option> Choose Branch </option>");
+                var cntry = $("#_country").val();
+              
+
+                $.ajax({
+                    type: "GET",
+                    url: "/Details/BranchesInOneCountry",
+                    data: { count: cntry },
+                    success: function (res) {
+                        $.each(res, function (i, e) {
+                            $("#BranchId").append("<option value='" + e.Id + "'>" + e.Name + "</option>");
+                        });
+                    }
+                });
+            });
+        });
+
+
+
+    </script>
+
+
+
+    @* <script>
+
+    $(function () {
+    $("#Btn").click(function () {
+    // $("#Lab").empty();
+    $.ajax({
+
+    type: "POST",
+    data: {},
+    url: "/Details/Display",
+    success: function (res) {
+    $("#Lab").text(res);
+    }
+    });
+    });
+    });
+    </script>*@
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,45 @@
+﻿@model TempleteD.Models.DepVM;
+
+@{
+    ViewBag.Title = "Add Department";
+
+}
+
+<h1>Add Department</h1>
+
+<body>
+
+    <form asp-controller="Deparment" asp-action="Create" method="post">
+
+        <div>
+            <labal asp-for="Name"> Name</labal>
+            <input type="text" asp-for="Name" class="form-control" />
+            <span class="text-danger" asp-validation-for="Name"></span>
+            <br /><br />
+        </div>
+
+        <div>
+            <labal asp-for="NumberOfEmployees"> Number Employees</labal>
+            <input type="number" asp-for="NumberOfEmployees" class="form-control" />
+            <span class="text-danger" asp-validation-for="NumberOfEmployees"></span>
+            <br /><br />
+        </div>
+
+        <div>
+            <labal asp-for="ManagerName"> Manager </labal>
+            <input type="text" asp-for="ManagerName" class="form-control" />
+            <span class="text-danger" asp-validation-for="ManagerName"></span>
+            <br /><br />
+        </div>
+
+
+       
+            <input type="submit" value="Save" class="btn btn-primary" />
+       
+
+
+    </form>
+    <script src="~/jquery/jquery.min.js"></script>
+    <script src="~/jquery-validate/jquery.validate.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>

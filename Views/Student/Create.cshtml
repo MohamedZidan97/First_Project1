@@ -1,0 +1,25 @@
+﻿@model TempleteD.Models.StudentVM;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <a asp-controller="Student" asp-action="Index" class="btn btn-danger">CV List</a>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+
+        <labal asp-for="CvUrl"> Upload CV</labal>
+        <input type="file" asp-for="CvUrl" />
+        <br /><br />
+
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </form>
+
+</body>
+</html>

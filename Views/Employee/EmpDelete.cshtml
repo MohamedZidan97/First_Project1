@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Employees";
+}
+@model IQueryable<TempleteD.Models.EmpVM>
+<h1>Employees</h1>
+
+<body>
+    <table class="table table-striped table-bordered text-center">
+        <tr>
+            <th class="text-center">SSN</th>
+            <th class="text-center">Name</th>
+            <th class="text-center">Salary</th>
+            <th class="text-center">Department</th>
+            <th class="text-center">Edit</th>
+            <th class="text-center">Delete</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id </td>
+                <td>@item.Name </td>
+                <td>@item.Salary </td>
+                <td>@item.Address</td>
+                <td>
+                    <a asp-controller="Employee" asp-action="EmpEdit" asp-route-id="@item.Id" class="btn btn-success">Edit</a>
+                </td>
+                <td>
+                    <a asp-controller="Employee" asp-action="EmpDelete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+
+
+
+    </table>
+
+
+
+</body>

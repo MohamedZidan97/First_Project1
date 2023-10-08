@@ -1,0 +1,144 @@
+﻿@model TempleteD.Models.EmpVM;
+
+
+
+
+@{
+    ViewBag.Title = "AddEmployee";
+}
+
+<h1>Add Employees</h1>
+
+<body>
+    <form asp-controller="Employee" asp-action="EmpCreate" method="post" class="form-group">
+
+
+        <labal asp-for="Name"> Name</labal>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+        <br /> <br />
+
+        <labal asp-for="Salary"> Salary</labal>
+        <input type="number" asp-for="Salary" class="form-control" />
+        <span class="text-danger" asp-validation-for="Salary"></span>
+        <br /> <br />
+
+        <labal asp-for="Address"> Address</labal>
+        <input type="text" asp-for="Address" class="form-control" />
+        <span class="text-danger" asp-validation-for="Address"></span>
+        <br /> <br />
+
+        <labal asp-for="Note">Note </labal>
+        <textarea asp-for="Note" class="form-control" rows="4"></textarea>
+        <span class="text-danger" asp-validation-for="Note"></span>
+        <br /> <br />
+
+        <labal asp-for="Email"> Email</labal>
+        <input type="email" asp-for="Email" class="form-control" />
+        <span class="text-danger" asp-validation-for="Email"></span>
+        <br /> <br />
+
+
+
+        <labal asp-for="HireDate"> HireDate</labal>
+        <input type="date" asp-for="HireDate" class="form-control" />
+        <span class="text-danger" asp-validation-for="HireDate"></span>
+        <br /> <br />
+
+
+
+
+        <labal asp-for="IsActive"> IsActive</labal>
+        <input type="checkbox" asp-for="IsActive" />
+        <span class="text-danger" asp-validation-for="IsActive"></span>
+        <br /> <br />
+
+        @*<labal asp-for="PhotoUrl"> Upload Photo</labal>
+        <input type="file" asp-for="PhotoUrl" class="form-control" />
+        <br /> <br />
+
+        <labal asp-for="CVUrl"> Upload CV</labal>
+        <input type="file" asp-for="CVUrl" class="form-control" />
+        <br /> <br />*@
+
+
+        <labal asp-for="DepartmentId">  Department </labal>
+        <select asp-for="DepartmentId" asp-items="@(SelectList)ViewBag.DepartmentList">
+            <option>
+                Choose Country
+            </option>
+        </select>
+        <br /> <br />
+
+
+
+        <labal>  Country </labal>
+        <select id="C" asp-items="@(SelectList)ViewBag.CountryList">
+            <option>
+                Choose Country
+            </option>
+        </select>
+        <br /> <br />
+
+
+
+        <labal asp-for="BranchId" >  Branch </labal>
+        <select asp-for="BranchId" asp-items="@(SelectList)ViewBag.BranchList">
+            <option>
+                Choose Branch
+            </option>
+        </select>
+        <br /> <br />
+
+
+        <input type="submit" value="Save" class="btn btn-primary" />
+
+
+    </form>
+    <script src="~/jquery/jquery.js"></script>
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+    @*  <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+
+    <script>
+
+    $(
+    function(){
+
+    $("#C").change(function(){
+
+    // $("#BranchId").empty();
+
+    // val() => value of item that select from CountryList
+    let countryId = $("#C").val();
+
+    $.ajax({
+    type:"GET",
+    url: "/Employee/AllBrenchinCountry",
+    Data: { cntryid: countryId},
+    // data
+    success: function (res){
+    $.each(res,function(i,e){
+    $("#BranchId").append("<option value='" + e.Id + "'>" + e.Name + "</option>");
+    });
+    }
+    });
+    });
+
+    }
+
+
+    );
+
+
+
+    </script>*@
+
+
+
+</body>
+
+

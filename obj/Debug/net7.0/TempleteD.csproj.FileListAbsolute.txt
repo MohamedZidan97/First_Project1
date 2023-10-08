@@ -1,0 +1,786 @@
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.AssemblyReference.cache
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.AssemblyInfoInputs.cache
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.AssemblyInfo.cs
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.CoreCompileInputs.cache
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.MvcApplicationPartsAssemblyInfo.cache
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.RazorAssemblyInfo.cache
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.RazorAssemblyInfo.cs
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\appsettings.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.staticwebassets.runtime.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.exe
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.deps.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.runtimeconfig.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.pdb
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Azure.Core.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Azure.Identity.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Humanizer.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.CodeDom.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Memory.Data.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.TempleteD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.build.TempleteD.props
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempleteD.props
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempleteD.props
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.build.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.development.json
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\scopedcss\bundle\TempleteD.styles.css
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.CopyComplete
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\refint\TempleteD.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.pdb
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.genruntimeconfig.cache
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\obj\Debug\net7.0\ref\TempleteD.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Build.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Common.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\AutoMapper.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C\.NET\ASP.NET\8-ASP.Net Core\Projects\TempleteD\TempleteD\bin\Debug\net7.0\libman.json
+C:\TempleteD\TempleteD\bin\Debug\net7.0\appsettings.json
+C:\TempleteD\TempleteD\bin\Debug\net7.0\libman.json
+C:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.staticwebassets.runtime.json
+C:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.exe
+C:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.deps.json
+C:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.runtimeconfig.json
+C:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.pdb
+C:\TempleteD\TempleteD\bin\Debug\net7.0\AutoMapper.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Azure.Core.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Azure.Identity.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Humanizer.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Build.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Common.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.CodeDom.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Memory.Data.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.AssemblyReference.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.GeneratedMSBuildEditorConfig.editorconfig
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.AssemblyInfoInputs.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.AssemblyInfo.cs
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.CoreCompileInputs.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.MvcApplicationPartsAssemblyInfo.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.RazorAssemblyInfo.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.RazorAssemblyInfo.cs
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.TempleteD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.build.TempleteD.props
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempleteD.props
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempleteD.props
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.build.json
+C:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.development.json
+C:\TempleteD\TempleteD\obj\Debug\net7.0\scopedcss\bundle\TempleteD.styles.css
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.CopyComplete
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.dll
+C:\TempleteD\TempleteD\obj\Debug\net7.0\refint\TempleteD.dll
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.pdb
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.genruntimeconfig.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\ref\TempleteD.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\TempleteD\TempleteD\bin\Debug\net7.0\ar-EG\TempleteD.resources.dll
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.Resourse.LanguegeResource.resources
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.Resourse.LanguegeResource.ar-EG.resources
+C:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.GenerateResource.cache
+C:\TempleteD\TempleteD\obj\Debug\net7.0\ar-EG\TempleteD.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\appsettings.json
+D:\TempleteD\TempleteD\bin\Debug\net7.0\libman.json
+D:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.staticwebassets.runtime.json
+D:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.exe
+D:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.deps.json
+D:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.runtimeconfig.json
+D:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\TempleteD.pdb
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ar-EG\TempleteD.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\AutoMapper.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Azure.Core.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Azure.Identity.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Humanizer.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Build.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Common.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.CodeDom.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Memory.Data.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.AssemblyReference.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.Resourse.LanguegeResource.resources
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.Resourse.LanguegeResource.ar-EG.resources
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.GenerateResource.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.GeneratedMSBuildEditorConfig.editorconfig
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.AssemblyInfoInputs.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.AssemblyInfo.cs
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.CoreCompileInputs.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.MvcApplicationPartsAssemblyInfo.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.RazorAssemblyInfo.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.RazorAssemblyInfo.cs
+D:\TempleteD\TempleteD\obj\Debug\net7.0\ar-EG\TempleteD.resources.dll
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.TempleteD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.build.TempleteD.props
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempleteD.props
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempleteD.props
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.build.json
+D:\TempleteD\TempleteD\obj\Debug\net7.0\staticwebassets.development.json
+D:\TempleteD\TempleteD\obj\Debug\net7.0\scopedcss\bundle\TempleteD.styles.css
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.csproj.CopyComplete
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.dll
+D:\TempleteD\TempleteD\obj\Debug\net7.0\refint\TempleteD.dll
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.pdb
+D:\TempleteD\TempleteD\obj\Debug\net7.0\TempleteD.genruntimeconfig.cache
+D:\TempleteD\TempleteD\obj\Debug\net7.0\ref\TempleteD.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\MailKit.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\MimeKit.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\TempleteD\TempleteD\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
